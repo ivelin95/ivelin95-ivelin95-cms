@@ -1,0 +1,56 @@
+
+ .menu_container{
+    display: block;
+    bottom: 70px;
+    position: relative;
+ }
+ .menu_nav{
+    list-style-type: none;
+    display: block;
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+ }
+  
+.db_cat {
+    float: left;
+}
+
+
+
+  .style_a{
+  display: block;
+  color: rgb(0, 102, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.style_a:hover:not(.active) {
+  background-color: white;
+  text-decoration: none;
+    text-transform: none;
+    color: rgb(0, 102, 255);
+}
+
+.active {
+    text-transform: none;
+  background-color: #4CAF50;
+  text-decoration: none;
+}
+
+.newclass {
+  background-color: white;
+  text-decoration: none;
+    text-transform: none;
+    color: rgb(0, 102, 255);
+}
+.registration{
+  float: right;
+}
+.admin {
+  float: right;
+}
