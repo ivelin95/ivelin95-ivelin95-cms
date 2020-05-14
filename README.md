@@ -1,7 +1,7 @@
 # ivelin95-ivelin95-cms
 php cms project
 
-Account Demo
-passord demo
+Account  - Demo
+password - demo
 
-http://cmstest.byethost13.com/cms
+link -> http://cmstest.byethost13.com/cms
